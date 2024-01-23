@@ -25,5 +25,8 @@ Aşağı: ↓
 Sol: ← 
 Sağ: → 
 
+Ekran Görüntüleri
+![gnsyilan](https://github.com/semanurozcal/gnsyilan/assets/108893972/7ffd5103-be10-4006-994f-f49b080cf4d2)
+
 Katkıda Bulunma
 Eğer bu oyunu geliştirmek veya hataları düzeltmek istiyorsanız, lütfen bir çekme isteği gönderin. Katkılarınızı bekliyoruz!
