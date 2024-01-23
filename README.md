@@ -19,14 +19,14 @@ Bu basit yılan oyunu, HTML, CSS ve JavaScript kullanılarak oluşturulmuştur. 
 →Oyunun bulunduğu dizine gidin,
 →index.html dosyasını bir tarayıcıda açarak oyunu başlatın.
 
-Oyun Kontrolleri
+## Oyun Kontrolleri
 Yukarı: ↑ 
 Aşağı: ↓ 
 Sol: ← 
 Sağ: → 
 
-Ekran Görüntüleri
+## Ekran Görüntüleri
 ![gnsyilan](https://github.com/semanurozcal/gnsyilan/assets/108893972/7ffd5103-be10-4006-994f-f49b080cf4d2)
 
-Katkıda Bulunma
+## Katkıda Bulunma
 Eğer bu oyunu geliştirmek veya hataları düzeltmek istiyorsanız, lütfen bir çekme isteği gönderin. Katkılarınızı bekliyoruz!
