@@ -30,3 +30,6 @@ Sağ: →
 
 ## Katkıda Bulunma
 Eğer bu oyunu geliştirmek veya hataları düzeltmek istiyorsanız, lütfen bir çekme isteği gönderin. Katkılarınızı bekliyoruz!
+
+## Lisans
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyebilirsiniz.
